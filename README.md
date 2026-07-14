@@ -1,6 +1,6 @@
 # MonkeyLab
 
-A first-person puzzle game built in **Unity** in 48 hours for **Global Game Jam 2024** by the Pixel Dash Games team.
+A first-person puzzle game built in **Unity** in 48 hours for **Global Game Jam 2024** by team **Wixell**.
 
 Explore a mysterious laboratory and solve its puzzles: grab and combine objects, mix color potions, face off against a tic-tac-toe machine, and deal with the lab's monkey business.
 
